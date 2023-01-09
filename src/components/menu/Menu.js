@@ -7,7 +7,7 @@ export default class Menu extends Component {
   <aside className="main-sidebar sidebar-dark-primary elevation-4">
     {/* Brand Logo */}
     <a href="index3.html" className="brand-link">
-      <img src="dist/img/AdminLTELogo.png" alt="AdminLTE Logo" className="brand-image img-circle elevation-3" style={{opacity: '.8'}} />
+      <img src="dist/img/AdminLTELogo.png"  className="brand-image img-circle elevation-3" style={{opacity: '.8'}} />
       <span className="brand-text font-weight-light">AqarPS</span>
     </a>
     {/* Sidebar */}
@@ -28,45 +28,45 @@ export default class Menu extends Component {
            with font-awesome or any other icon font library */}
          
           <li className="nav-item">
-            <a href="https://adminlte.io/docs/3.0" className="nav-link active">
-              <i className="nav-icon fas fa-file" />
+            <a href="#" className="nav-link active">
+              <i className="nav-icon fas fa-home" />
               <p>Properties</p>
             </a>
           </li>
           
           <li className="nav-item">
-            <a href="https://adminlte.io/docs/3.0" className="nav-link">
-              <i className="nav-icon fas fa-file" />
+            <a href="#" className="nav-link">
+              <i className="nav-icon fas fa-users" />
               <p>Admins</p>
             </a>
           </li>
           <li className="nav-item">
-            <a href="https://adminlte.io/docs/3.0" className="nav-link">
-              <i className="nav-icon fas fa-file" />
+            <a href="#" className="nav-link">
+              <i className="nav-icon fas fa-city" />
               <p>Cities</p>
             </a>
           </li>
           <li className="nav-item">
-            <a href="https://adminlte.io/docs/3.0" className="nav-link">
-              <i className="nav-icon fas fa-file" />
+            <a href="#" className="nav-link">
+              <i className="nav-icon fas fa-chart-bar"></i>
               <p>Reports</p>
             </a>
           </li>
           <li className="nav-item">
-            <a href="https://adminlte.io/docs/3.0" className="nav-link">
-              <i className="nav-icon fas fa-file" />
+            <a href="#" className="nav-link">
+              <i className="nav-icon fas fa-sms" />
               <p>Send SMS</p>
             </a>
           </li>
           <li className="nav-item">
-            <a href="https://adminlte.io/docs/3.0" className="nav-link">
-              <i className="nav-icon fas fa-file" />
+            <a href="#" className="nav-link">
+              <i className="nav-icon fas fa-bell" />
               <p>Send Notifications</p>
             </a>
           </li>
           <li className="nav-item">
-            <a href="https://adminlte.io/docs/3.0" className="nav-link">
-              <i className="nav-icon fas fa-file" />
+            <a href="#" className="nav-link">
+              <i className="nav-icon fas fa-sign-out-alt" />
               <p>Logout</p>
             </a>
           </li>
